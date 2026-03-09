@@ -1,0 +1,8 @@
+*.xml
+*.png
+build/.cxx/Debug/4x4r55h2/x86_64/android_gradle_build.json
+/build
+/windows
+/macos
+/linux
+/web

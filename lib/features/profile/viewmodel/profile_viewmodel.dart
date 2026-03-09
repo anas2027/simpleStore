@@ -1,0 +1,3 @@
+class ProfileViewModel {
+  const ProfileViewModel();
+}

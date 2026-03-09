@@ -1,0 +1,55 @@
+{
+  "app": {
+    "title": "Store Project"
+  },
+  "nav": {
+    "home": "Home",
+    "add": "Add",
+    "profile": "Profile"
+  },
+  "home": {
+    "title": "Welcome",
+    "subtitle": "Browse products from the store and open product details."
+  },
+  "store": {
+    "allCategories": "All",
+    "unknownError": "Unknown error",
+    "failedToLoadProducts": "Failed to load products"
+  },
+  "details": {
+    "title": "Product Details",
+    "notFound": "Product not found",
+    "failedToLoad": "Failed to load product details",
+    "addedToCart": "Added to cart"
+  },
+  "addProduct": {
+    "title": "Title",
+    "price": "Price",
+    "category": "Category",
+    "imageUrl": "Image URL",
+    "description": "Description",
+    "submit": "Add Product",
+    "submitting": "Submitting...",
+    "required": "This field is required",
+    "invalidPrice": "Please enter a valid price",
+    "successWithId": "Product created ",
+    "failedToAdd": "Failed to add product",
+    "invalidImageUrl": "Please enter a valid image URL"
+  },
+  "profile": {
+    "title": "Profile",
+    "language": "Language",
+    "changeLanguage": "Change Language",
+    "selectLanguage": "Select language"
+  },
+  "cart": {
+    "title": "My Cart",
+    "empty": "Your cart is empty",
+    "quantity": "Quantity",
+    "increase": "Increase quantity",
+    "decrease": "Decrease quantity"
+  },
+  "common": {
+    "retry": "Retry"
+  }
+}

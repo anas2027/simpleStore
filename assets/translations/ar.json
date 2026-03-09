@@ -1,0 +1,55 @@
+{
+  "app": {
+    "title": "مشروع المتجر"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "add": "إضافة",
+    "profile": "الملف الشخصي"
+  },
+  "home": {
+    "title": "مرحباً",
+    "subtitle": "تصفح منتجات المتجر وافتح تفاصيل المنتج."
+  },
+  "store": {
+    "allCategories": "الكل",
+    "unknownError": "خطأ غير معروف",
+    "failedToLoadProducts": "فشل تحميل المنتجات"
+  },
+  "details": {
+    "title": "تفاصيل المنتج",
+    "notFound": "المنتج غير موجود",
+    "failedToLoad": "فشل تحميل تفاصيل المنتج",
+    "addedToCart": "تمت الإضافة إلى السلة"
+  },
+  "addProduct": {
+    "title": "العنوان",
+    "price": "السعر",
+    "category": "الفئة",
+    "imageUrl": "رابط الصورة",
+    "description": "الوصف",
+    "submit": "إضافة المنتج",
+    "submitting": "جاري الإرسال...",
+    "required": "هذا الحقل مطلوب",
+    "invalidPrice": "الرجاء إدخال سعر صحيح",
+    "successWithId": "تم إنشاء المنتج بالمعرف",
+    "failedToAdd": "فشل إضافة المنتج",
+    "invalidImageUrl": "الرجاء إدخال رابط صورة صحيح"
+  },
+  "profile": {
+    "title": "الملف الشخصي",
+    "language": "اللغة",
+    "changeLanguage": "تغيير اللغة",
+    "selectLanguage": "اختر اللغة"
+  },
+  "cart": {
+    "title": "سلة المشتريات",
+    "empty": "سلة المشتريات فارغة",
+    "quantity": "الكمية",
+    "increase": "زيادة الكمية",
+    "decrease": "تقليل الكمية"
+  },
+  "common": {
+    "retry": "إعادة المحاولة"
+  }
+}
