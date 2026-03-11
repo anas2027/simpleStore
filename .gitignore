@@ -6,3 +6,5 @@ build/.cxx/Debug/4x4r55h2/x86_64/android_gradle_build.json
 /macos
 /linux
 /web
+android/.DS_Store
+android/app/.DS_Store

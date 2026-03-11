@@ -1,0 +1,1 @@
+ /Users/pablo/Documents/GitHub/simpleStore/.dart_tool/flutter_build/5bc0af77646d95782884c5ae4709eb89/native_assets.json: 
